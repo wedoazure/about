@@ -1,2 +1,3 @@
-# about
-<img src="https://github-readme-stats.vercel.app/api/?username=wedoazure&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wedoazure&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wedoazure&langs_count=5&theme=tokyonight)]()
+
